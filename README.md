@@ -42,12 +42,6 @@ The dataset used for this project is publicly available on **Kaggle**:
    jupyter notebook car-damage-detection-system.ipynb
    ```
 
-## 🧪 Sample Results
-<p align="center">
-  <img src="assets/sample_output_1.jpg" width="400"/>
-  <img src="assets/sample_output_2.jpg" width="400"/>
-</p>
-
 ## 📜 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
